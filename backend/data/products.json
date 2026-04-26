@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "f3e31991-091f-4584-8cf2-bc54b186c29a",
+    "name": "LEGO Speed Champions Ferrari SF-24 F1 Race Car Toy",
+    "category": "Toy",
+    "price": 24000,
+    "stock": 2,
+    "createdAt": "2026-04-26T15:37:05.866Z",
+    "updatedAt": "2026-04-26T15:37:05.866Z"
+  },
+  {
+    "_id": "6f07a982-12d8-42e9-9f51-b5a308fffe7a",
+    "name": "Samsung Galaxy S25 FE",
+    "category": "Electronics",
+    "price": 219000,
+    "stock": 394,
+    "createdAt": "2026-04-26T15:17:06.669Z",
+    "updatedAt": "2026-04-26T15:17:06.669Z"
+  },
+  {
+    "_id": "f85697e5-df6b-4f42-bc65-811f4782195c",
+    "name": "HP Probook 440 g11",
+    "category": "Electronics",
+    "price": 275000,
+    "stock": 12,
+    "createdAt": "2026-04-26T15:16:14.387Z",
+    "updatedAt": "2026-04-26T15:16:14.387Z"
+  }
+]

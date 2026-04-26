@@ -1,0 +1,17 @@
+{
+  "name": "we-lab-12",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "dev": "npm run dev:backend & npm run dev:frontend & wait",
+    "dev:backend": "npm run dev --workspace backend",
+    "dev:frontend": "npm run dev --workspace frontend",
+    "build": "npm run build --workspace frontend"
+  },
+  "dependencies": {
+    "mongodb": "^7.2.0"
+  }
+}
